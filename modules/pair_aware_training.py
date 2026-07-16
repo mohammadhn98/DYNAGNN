@@ -713,5 +713,3 @@ def run_task_training(
         "log_kpi_mean": log_mean,
         "log_kpi_std": log_std,
     }
-
-
